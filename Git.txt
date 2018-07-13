@@ -1,0 +1,5 @@
+cd – change directory (Home Directory) 
+
+ls – list directory
+
+Config – Configure GIT Directory
